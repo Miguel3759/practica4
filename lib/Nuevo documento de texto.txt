@@ -1,0 +1,5 @@
+desarrolla una appcon memoria persistente(SQflite) para el manejo de recordatorios, considerando lo soguiente
+-cada recordatorio tendra un titulo y descripcion
+-se debe tener la posibilidad  de ver todos los recordatorios
+-añadir recordatorios 
+-modificar y eliminar un recordatorio
